@@ -76,8 +76,9 @@ body{
 }
 
  /*Card border*/
-
-
+.card:hover{
+    box-shadow: 20px 20px 60px rgba(219, 3, 158, 0.5);
+}
 
 
 
@@ -128,7 +129,7 @@ body{
 
 }
 
-.PY2{
+.html{
     background-image: url('/IMG/Coding/html-logo.png');
     background-repeat: no-repeat;
     background-position: center;
