@@ -81,9 +81,6 @@ body{
 }
 
 
-
-
-
  /*project image*/
 .TC{
     background-image: url('/IMG/Projects/twicecore.png');
@@ -134,7 +131,7 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     background-size: 90px;
-    margin-top: 125px;
+    margin-top: 115px;
 
 }
 
